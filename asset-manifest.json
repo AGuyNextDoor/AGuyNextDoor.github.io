@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ablognextdoor/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ablognextdoor/static/js/main.57a9140c.chunk.js",
-    "main.js.map": "/ablognextdoor/static/js/main.57a9140c.chunk.js.map",
-    "runtime-main.js": "/ablognextdoor/static/js/runtime-main.78ee1804.js",
-    "runtime-main.js.map": "/ablognextdoor/static/js/runtime-main.78ee1804.js.map",
-    "static/js/2.32050a57.chunk.js": "/ablognextdoor/static/js/2.32050a57.chunk.js",
-    "static/js/2.32050a57.chunk.js.map": "/ablognextdoor/static/js/2.32050a57.chunk.js.map",
-    "index.html": "/ablognextdoor/index.html",
-    "precache-manifest.92f2cf17acc88389d3ce9038ed9dda29.js": "/ablognextdoor/precache-manifest.92f2cf17acc88389d3ce9038ed9dda29.js",
-    "service-worker.js": "/ablognextdoor/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/ablognextdoor/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.32050a57.chunk.js.LICENSE.txt": "/ablognextdoor/static/js/2.32050a57.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ablognextdoor/static/media/logo.5d5d9eef.svg"
+    "main.css": "/a-blog-nextdoor/static/css/main.d1b05096.chunk.css",
+    "main.js": "/a-blog-nextdoor/static/js/main.f2d39a56.chunk.js",
+    "main.js.map": "/a-blog-nextdoor/static/js/main.f2d39a56.chunk.js.map",
+    "runtime-main.js": "/a-blog-nextdoor/static/js/runtime-main.2d5602e1.js",
+    "runtime-main.js.map": "/a-blog-nextdoor/static/js/runtime-main.2d5602e1.js.map",
+    "static/js/2.32050a57.chunk.js": "/a-blog-nextdoor/static/js/2.32050a57.chunk.js",
+    "static/js/2.32050a57.chunk.js.map": "/a-blog-nextdoor/static/js/2.32050a57.chunk.js.map",
+    "index.html": "/a-blog-nextdoor/index.html",
+    "precache-manifest.cb167b641158a3974596b58b57429b26.js": "/a-blog-nextdoor/precache-manifest.cb167b641158a3974596b58b57429b26.js",
+    "service-worker.js": "/a-blog-nextdoor/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/a-blog-nextdoor/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.32050a57.chunk.js.LICENSE.txt": "/a-blog-nextdoor/static/js/2.32050a57.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/a-blog-nextdoor/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.78ee1804.js",
+    "static/js/runtime-main.2d5602e1.js",
     "static/js/2.32050a57.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.57a9140c.chunk.js"
+    "static/js/main.f2d39a56.chunk.js"
   ]
 }
