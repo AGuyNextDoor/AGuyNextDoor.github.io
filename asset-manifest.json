@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.9c2f36fc.chunk.js",
-    "main.js.map": "/static/js/main.9c2f36fc.chunk.js.map",
+    "main.css": "/static/css/main.b66e0fb5.chunk.css",
+    "main.js": "/static/js/main.3fd2af6c.chunk.js",
+    "main.js.map": "/static/js/main.3fd2af6c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6e17e74b.js",
     "runtime-main.js.map": "/static/js/runtime-main.6e17e74b.js.map",
     "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.759dc5f1.chunk.js": "/static/js/2.759dc5f1.chunk.js",
-    "static/js/2.759dc5f1.chunk.js.map": "/static/js/2.759dc5f1.chunk.js.map",
+    "static/js/2.ad61936a.chunk.js": "/static/js/2.ad61936a.chunk.js",
+    "static/js/2.ad61936a.chunk.js.map": "/static/js/2.ad61936a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c71cb7c854816220913f16c65df998a6.js": "/precache-manifest.c71cb7c854816220913f16c65df998a6.js",
+    "precache-manifest.15be258b1b682f85fab43233691550d3.js": "/precache-manifest.15be258b1b682f85fab43233691550d3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.759dc5f1.chunk.js.LICENSE.txt": "/static/js/2.759dc5f1.chunk.js.LICENSE.txt",
-    "static/media/PPGithub2 - copie.jpg": "/static/media/PPGithub2 - copie.38a07719.jpg",
-    "static/media/ppp.png": "/static/media/ppp.ee645413.png"
+    "static/css/main.b66e0fb5.chunk.css.map": "/static/css/main.b66e0fb5.chunk.css.map",
+    "static/js/2.ad61936a.chunk.js.LICENSE.txt": "/static/js/2.ad61936a.chunk.js.LICENSE.txt",
+    "static/media/(Coton).Portrait Noir et Blanc.png": "/static/media/(Coton).Portrait Noir et Blanc.1b5fcdb1.png",
+    "static/media/Affiche_Revue_2018.Affiche.png": "/static/media/Affiche_Revue_2018.Affiche.104a9fe4.png",
+    "static/media/Autoportrait_(Juillet_2017).Autoportrait.png": "/static/media/Autoportrait_(Juillet_2017).Autoportrait.62b89497.png",
+    "static/media/Bruxelles.Portrait Noir et Blanc.png": "/static/media/Bruxelles.Portrait Noir et Blanc.966526f7.png",
+    "static/media/Entropy's_scars 2.Portrait Noir et Blanc.png": "/static/media/Entropy's_scars 2.Portrait Noir et Blanc.1445ab57.png",
+    "static/media/IMG_3605.Portrait Filtre.png": "/static/media/IMG_3605.Portrait Filtre.9fbe549f.png",
+    "static/media/Illustration_sans_titre 2.Portrait Noir et Blanc.png": "/static/media/Illustration_sans_titre 2.Portrait Noir et Blanc.bf1cb19c.png",
+    "static/media/Test_9_ 2.Portrait Filtre.png": "/static/media/Test_9_ 2.Portrait Filtre.2042ffcc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6e17e74b.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.759dc5f1.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.9c2f36fc.chunk.js"
+    "static/js/2.ad61936a.chunk.js",
+    "static/css/main.b66e0fb5.chunk.css",
+    "static/js/main.3fd2af6c.chunk.js"
   ]
 }
