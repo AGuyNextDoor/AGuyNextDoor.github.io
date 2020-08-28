@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e8aea87.chunk.css",
+    "main.css": "/static/css/main.ed18aad7.chunk.css",
     "main.js": "/static/js/main.8f2f61a1.chunk.js",
     "main.js.map": "/static/js/main.8f2f61a1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6e17e74b.js",
@@ -9,10 +9,10 @@
     "static/js/2.d1ae4ba4.chunk.js": "/static/js/2.d1ae4ba4.chunk.js",
     "static/js/2.d1ae4ba4.chunk.js.map": "/static/js/2.d1ae4ba4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a94940d77a051291a033517c5db71ca2.js": "/precache-manifest.a94940d77a051291a033517c5db71ca2.js",
+    "precache-manifest.25c870320aaef761aeeaf9267f7cd5e0.js": "/precache-manifest.25c870320aaef761aeeaf9267f7cd5e0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.1e8aea87.chunk.css.map": "/static/css/main.1e8aea87.chunk.css.map",
+    "static/css/main.ed18aad7.chunk.css.map": "/static/css/main.ed18aad7.chunk.css.map",
     "static/js/2.d1ae4ba4.chunk.js.LICENSE.txt": "/static/js/2.d1ae4ba4.chunk.js.LICENSE.txt",
     "static/media/(Coton).Portrait Noir et Blanc.png": "/static/media/(Coton).Portrait Noir et Blanc.1b5fcdb1.png",
     "static/media/Affiche_Revue_2018.Affiche.png": "/static/media/Affiche_Revue_2018.Affiche.104a9fe4.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.6e17e74b.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.d1ae4ba4.chunk.js",
-    "static/css/main.1e8aea87.chunk.css",
+    "static/css/main.ed18aad7.chunk.css",
     "static/js/main.8f2f61a1.chunk.js"
   ]
 }
